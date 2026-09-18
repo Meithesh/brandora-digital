@@ -54,7 +54,7 @@ contactForm.addEventListener("submit", function (event) {
         return;
     }
 
-    const whatsappNumber = "916382997487";
+    const whatsappNumber = "918807938357";
 
     const whatsappMessage =
         "Hello Brandora Digital!%0A%0A" +
